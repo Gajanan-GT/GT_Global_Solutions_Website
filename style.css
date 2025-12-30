@@ -25,7 +25,16 @@ body {
 }
 
 .logo {
+    max-width: 280px;   /* desktop default */
+    width: 100%;
+    height: auto;
     margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .logo {
+        max-width: 200px;
+    }
 }
 
 .tagline {
@@ -167,3 +176,4 @@ footer {
         display: none;
     }
 }
+
