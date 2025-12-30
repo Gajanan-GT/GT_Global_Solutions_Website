@@ -18,7 +18,7 @@ body {
 }
 
 .hero {
-    background: radial-gradient(circle at top, #0534cf, #0B0F14);
+    background: radial-gradient(circle at top, #167E9F, #0B0F14);
     color: #ffffff;
     text-align: center;
     padding: 90px 20px;
@@ -176,4 +176,5 @@ footer {
         display: none;
     }
 }
+
 
