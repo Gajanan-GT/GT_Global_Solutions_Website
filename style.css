@@ -23,14 +23,13 @@ body {
     text-align: center;
     padding: 90px 20px;
 }
-/*test change
 
 .logo {
-    max-width: 280px;   desktop default
+    max-width: 280px;   /* desktop default */
     width: 100%;
     height: auto;
     margin-bottom: 20px;
-} */
+}
 
 @media (max-width: 768px) {
     .logo {
