@@ -18,18 +18,19 @@ body {
 }
 
 .hero {
-    background: radial-gradient(circle at top, #05B3CF, #0B0F14);
+    background: radial-gradient(circle at top, #0534cf, #0B0F14);
     color: #ffffff;
     text-align: center;
     padding: 90px 20px;
 }
+/*test change
 
 .logo {
-    max-width: 280px;   /* desktop default */
+    max-width: 280px;   desktop default
     width: 100%;
     height: auto;
     margin-bottom: 20px;
-}
+} */
 
 @media (max-width: 768px) {
     .logo {
